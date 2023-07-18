@@ -1,0 +1,28 @@
+.container {
+  padding: 20px;
+}
+
+.card {
+  width: 100%;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.card-text {
+  margin-bottom: 10px;
+}
+
+.rating {
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
